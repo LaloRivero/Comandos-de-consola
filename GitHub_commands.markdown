@@ -1,4 +1,4 @@
-# Comandos usados en la consola de git
+# Comandos usados en la consola de GitHub
 
 ### GitHub
 
