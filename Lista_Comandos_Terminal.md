@@ -1,6 +1,6 @@
-##Lista de comandos útiles para el terminal
+## Lista de comandos útiles para el terminal
 
-###¿Para qué sirve el terminal?
+### ¿Para qué sirve el terminal?
 
 Línea de comandos o terminal es una interfaz de texto en la que pueden escribirse reglas o comandos que el ordenador debe llevar a cabo. Muchas de las tareas que realizamos cotidianamente son realmente más eficaces si las llevamos a cabo con el terminal, especialmente en relación a los derechos de los archivos. 
 
@@ -13,7 +13,7 @@ En el MAC, el terminal se sitúa en Applicaciones > Utilities > Terminal.
 El símbolo $ (shell prompt) indica que el terminal está listo para recibir órdenes y que ya puedes escribir en la interfaz. 
 
 
-###Sistema de ficheros (filesystem)
+### Sistema de ficheros (filesystem)
 
 Antes de nada, es preciso que conozcas el funcionamiento del sistema de ficheros _file system_) de tu máquina, es decir, cómo organiza las directorios (o carpetas, _folders_) y los archivos (o documentos, _files_).
 
